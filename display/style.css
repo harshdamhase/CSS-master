@@ -18,4 +18,31 @@ a{
 }
 .search{
     margin-left: 600px;
+    font-size: 20px;
+}
+
+.ftr{
+    background-color: rgb(24, 23, 24);
+    margin-top: 100px;
+    height: 350px;
+}
+
+.box{
+    background-color: aqua;
+    border: 2px solid black;
+    border-radius: 10px;
+    height: 200px;
+    width: 200px;
+    /* display: inline-block; */
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.ftr-heading{
+    padding: 40px;
+    text-align: center;
+    display: inline-block;
+}
+.content{
+    /* background-color: antiquewhite; */
+    height: 350px;
 }
